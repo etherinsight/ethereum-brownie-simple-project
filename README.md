@@ -17,7 +17,7 @@ A bare-bones implementation of the Ethereum [ERC-20 standard](https://eips.ether
     ```
     export WEB3_INFURA_PROJECT_ID='112233fdfdfdfdfdf'
 export PRIVATE_KEY='0x3434343434343434343434343434'
-
+```
 
 - Sign up for Infura here: https://infura.io/
 - Export your private key from metamask this way https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
